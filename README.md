@@ -9,7 +9,7 @@ Created application to generate short url's
 #### Clone the repository
 
 ```bash
-https://github.com/esirangelomub/laravel-blue-coding
+git clone git@github.com:esirangelomub/laravel-blue-coding.git
 ```
 
 #### Setting Environment Variables
