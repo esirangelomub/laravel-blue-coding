@@ -1,5 +1,5 @@
 
-# Laravel-Blue-Coding Challange
+# Laravel-Blue-Coding Challenge
 
 Created application to generate short url's
 
